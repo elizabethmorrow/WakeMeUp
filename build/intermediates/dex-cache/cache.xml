@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/eamorrow/Documents/WakeMeUp/app/libs/wit.sdk.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd7fe0a9e4130f258803c829938d093321ebd8a5">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/wit.sdk-f3ec5df8b9da8f9b12518710ca9d49383ab8744d.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/gson-2.2.4-32b2f39b1725800a91f47d49e7c329308007b340.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/classes-91aac68af9bfcf5ec02773fe7f1da6cfc6fc8f4b.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/classes-e60f6456b04b8cf788565470c237f6e184cd07c4.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/.gradle/caches/modules-2/files-2.1/org.apache.directory.studio/org.apache.commons.io/2.4/b98d592c582262b3da8a871c7317f4902d98e996/org.apache.commons.io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b98d592c582262b3da8a871c7317f4902d98e996">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/org.apache.commons.io-2.4-8d6e9c15a3ae7e42941463639c52781196498e3c.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f1d5b59a580327957525c1ac070e9144ae4c9374.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-239b35ae694e8355275f29e8210d6394a2ba3f32.jar" />
+    </item>
+    <item
+        jar="/home/eamorrow/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/eamorrow/Documents/WakeMeUp/app/build/intermediates/pre-dexed/debug/commons-io-2.4-6b124d15991468ac356451c5c24e05ad2b237963.jar" />
+    </item>
+
+</items>
