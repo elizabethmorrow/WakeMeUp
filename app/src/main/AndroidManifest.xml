@@ -34,7 +34,7 @@
                 </intent-filter>
             </receiver>
 
-        <activity android:name=".Alarm_Screen" />
+        <activity android:name=".AlarmScreen" />
     </application>
 
 </manifest>

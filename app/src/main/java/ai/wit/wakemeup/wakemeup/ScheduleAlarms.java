@@ -12,7 +12,7 @@ public class ScheduleAlarms extends BroadcastReceiver {
 
     // @Override
     public void onReceive(Context context,Intent intent) {
-        Intent alarmIntent = new Intent(context,Alarm_Screen.class);
+        Intent alarmIntent = new Intent(context,AlarmScreen.class);
         alarmIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         context.startActivity(alarmIntent);
     }
